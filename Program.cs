@@ -23,6 +23,24 @@ Console.WriteLine(exampleOne);
 float exampleFloat = 5.75F;
 Console.WriteLine(exampleFloat);
 
+//boolean 
+bool isLearning = false;
+Console.WriteLine(isLearning);
+
+//if else block
+if (isLearning == true)
+{
+    Console.WriteLine("hi");
+} 
+else if (isLearning == false) 
+{
+    Console.WriteLine("bye");
+} 
+else
+{
+    Console.WriteLine("hello");
+}
+
 
 
 
