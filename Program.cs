@@ -41,6 +41,21 @@ else
     Console.WriteLine("hello");
 }
 
+//switch block
+string food = "lettuce";
+
+switch(food)
+{
+    case "apple": 
+        Console.WriteLine("Honeycrisp");
+        break;
+    case "lettuce":
+        Console.WriteLine("Iceberg");
+        break;
+
+}
+
+//array of strings
 
 
 
